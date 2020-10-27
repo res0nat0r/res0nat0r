@@ -26,7 +26,7 @@
 
 #### 📓 Gists I wrote
 
-- [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (4 days ago)
+- [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (5 days ago)
 - [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (1 week ago)
 - [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (3 weeks ago)
 - [Compact WSL2 Disk](https://gist.github.com/54625761a9b07eebdf5ca55f62da581e) (1 month ago)
