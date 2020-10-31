@@ -2,9 +2,9 @@
 
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (1 month ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (8 months ago)
-- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (8 months ago)
+- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (9 months ago)
 - [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) - An operator that manages Istio deployments on Kubernetes (11 months ago)
-- [res0nat0r/tmdbgrabber](https://github.com/res0nat0r/tmdbgrabber) - Grab thumbs/backgrounds from The MovieDB for use with XBMC (11 months ago)
+- [res0nat0r/tmdbgrabber](https://github.com/res0nat0r/tmdbgrabber) - Grab thumbs/backgrounds from The MovieDB for use with XBMC (1 year ago)
 
 #### 🌱 My latest projects
 
