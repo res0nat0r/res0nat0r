@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (1 month ago)
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (8 months ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (9 months ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (9 months ago)
 - [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) - An operator that manages Istio deployments on Kubernetes (11 months ago)
 - [res0nat0r/tmdbgrabber](https://github.com/res0nat0r/tmdbgrabber) - Grab thumbs/backgrounds from The MovieDB for use with XBMC (1 year ago)
@@ -27,7 +27,7 @@
 #### 📓 Gists I wrote
 
 - [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (1 week ago)
-- [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (1 week ago)
+- [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (2 weeks ago)
 - [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (3 weeks ago)
 - [Compact WSL2 Disk](https://gist.github.com/54625761a9b07eebdf5ca55f62da581e) (2 months ago)
 - [clojure github actions](https://gist.github.com/a14284055b7597620057c711788f17b2) (4 months ago)
