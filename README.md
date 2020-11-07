@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 4 weeks ago) - A flexible control server for osquery fleets
+- [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 1 month ago) - A flexible control server for osquery fleets
 - [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) ([0.6.5](https://github.com/banzaicloud/istio-operator/releases/tag/0.6.5), 3 months ago) - An operator that manages Istio deployments on Kubernetes
 
 #### 📓 Gists I wrote
