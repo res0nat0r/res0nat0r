@@ -21,11 +21,10 @@
 #### 🔭 Latest releases I've contributed to
 
 - [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 1 month ago) - A flexible control server for osquery fleets
-- [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) ([0.6.5](https://github.com/banzaicloud/istio-operator/releases/tag/0.6.5), 4 months ago) - An operator that manages Istio deployments on Kubernetes
 
 #### 📓 Gists I wrote
 
-- [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (3 days ago)
+- [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (4 days ago)
 - [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (1 month ago)
 - [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (1 month ago)
 - [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (1 month ago)
