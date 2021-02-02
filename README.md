@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (1 month ago)
-- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (1 month ago)
+- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (2 months ago)
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (4 months ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 year ago)
 
@@ -27,7 +27,7 @@
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (2 months ago)
 - [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (3 months ago)
 - [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (3 months ago)
-- [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (3 months ago)
+- [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (4 months ago)
 - [Compact WSL2 Disk](https://gist.github.com/54625761a9b07eebdf5ca55f62da581e) (5 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
