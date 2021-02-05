@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 3 months ago) - A flexible control server for osquery fleets
+- [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 4 months ago) - A flexible control server for osquery fleets
 
 #### 📓 Gists I wrote
 
