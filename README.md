@@ -1,9 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (1 month ago)
+- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (2 months ago)
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (2 months ago)
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (4 months ago)
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 year ago)
 
 #### 🌱 My latest projects
 
