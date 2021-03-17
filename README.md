@@ -26,7 +26,7 @@
 - [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (3 weeks ago)
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (3 months ago)
 - [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (4 months ago)
-- [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (4 months ago)
+- [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (5 months ago)
 - [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (5 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
