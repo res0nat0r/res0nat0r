@@ -23,10 +23,10 @@
 
 #### 📓 Gists I wrote
 
+- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (today)
 - [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (3 months ago)
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (7 months ago)
 - [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (7 months ago)
 - [kexec-based installer for nixos to install nixos from every linux!](https://gist.github.com/7a82a79ff2e1e2ec1663cef813b27969) (8 months ago)
-- [wsl.conf for ubuntu](https://gist.github.com/4aa8ad243bebfcb5e139832ac0fc1143) (8 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
