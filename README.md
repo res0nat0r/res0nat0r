@@ -23,7 +23,7 @@
 
 #### 📓 Gists I wrote
 
-- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 day ago)
+- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (2 days ago)
 - [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (3 months ago)
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (7 months ago)
 - [Delete all non latest s3 objects](https://gist.github.com/74ce7e78cd5994f55372897611f23938) (8 months ago)
