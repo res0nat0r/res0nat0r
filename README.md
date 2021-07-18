@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (4 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 days ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (2 weeks ago)
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (7 months ago)
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (9 months ago)
@@ -24,7 +24,7 @@
 
 #### 📓 Gists I wrote
 
-- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (4 weeks ago)
+- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 month ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (1 month ago)
 - [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (4 months ago)
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (8 months ago)
