@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 weeks ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 day ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (1 month ago)
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (8 months ago)
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (10 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 9 months ago) - A flexible control server for osquery fleets
+- [kolide/fleet](https://github.com/kolide/fleet) ([3.2.0](https://github.com/kolide/fleet/releases/tag/3.2.0), 10 months ago) - A flexible control server for osquery fleets
 
 #### 📓 Gists I wrote
 
