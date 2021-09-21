@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (6 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 week ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (2 months ago)
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (9 months ago)
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets (1 year ago)
@@ -24,10 +24,10 @@
 
 #### 📓 Gists I wrote
 
-- [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (5 days ago)
+- [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (6 days ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (3 months ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (3 months ago)
-- [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (6 months ago)
+- [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (7 months ago)
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (10 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
