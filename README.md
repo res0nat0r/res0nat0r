@@ -25,7 +25,7 @@
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 month ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (4 months ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (4 months ago)
-- [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (7 months ago)
+- [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (8 months ago)
 - [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (11 months ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
