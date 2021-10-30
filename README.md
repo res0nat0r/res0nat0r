@@ -2,7 +2,7 @@
 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 month ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (4 months ago)
-- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (10 months ago)
+- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (11 months ago)
 
 #### 🌱 My latest projects
 
