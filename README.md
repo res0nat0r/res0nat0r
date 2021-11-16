@@ -6,6 +6,7 @@
 
 #### 🌱 My latest projects
 
+- [res0nat0r/guix](https://github.com/res0nat0r/guix) - GNU GUIX Mirror
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions
 - [res0nat0r/hello-github-actions](https://github.com/res0nat0r/hello-github-actions) - 
@@ -15,7 +16,6 @@
 - [res0nat0r/lol](https://github.com/res0nat0r/lol) - 
 - [res0nat0r/res0nat0r.github.com](https://github.com/res0nat0r/res0nat0r.github.com) - Octopress website
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions
-- [res0nat0r/tsunami-udp](https://github.com/res0nat0r/tsunami-udp) -  A fast user-space file transfer protocol that uses TCP control and UDP data for transfer over very high speed long distance networks (≥ 1 Gbps and even 10 GE), designed to provide more throughput than possible with TCP over the same networks.
 
 #### 🔭 Latest releases I've contributed to
 
