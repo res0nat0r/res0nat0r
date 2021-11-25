@@ -22,10 +22,10 @@
 
 #### 📓 Gists I wrote
 
+- [](https://gist.github.com/3c9ea097616211c15517621f1d997f53) (1 day ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (2 months ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (5 months ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (5 months ago)
 - [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (9 months ago)
-- [updated ps1](https://gist.github.com/7ddccca0f8fac4e9b1f4e745d3ff9e86) (1 year ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
