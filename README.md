@@ -22,7 +22,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/3c9ea097616211c15517621f1d997f53) (1 day ago)
+- [](https://gist.github.com/3c9ea097616211c15517621f1d997f53) (2 days ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (2 months ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (5 months ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (5 months ago)
