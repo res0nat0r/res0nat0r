@@ -1,7 +1,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 weeks ago)
-- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (4 months ago)
+- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (5 months ago)
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/3c9ea097616211c15517621f1d997f53) (2 days ago)
+- [](https://gist.github.com/3c9ea097616211c15517621f1d997f53) (3 days ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (2 months ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (5 months ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (5 months ago)
