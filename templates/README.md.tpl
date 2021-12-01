@@ -1,3 +1,5 @@
+[![res0nat0r's GitHhub stats](https://github-readme-stats.vercel.app/api?username=res0nat0r&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
