@@ -2,11 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (1 day ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 months ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (9 months ago)
 
 #### 🌱 My latest projects
 
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) - 
 - [res0nat0r/guix](https://github.com/res0nat0r/guix) - GNU GUIX Mirror
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions
@@ -16,14 +18,13 @@
 - [res0nat0r/lol](https://github.com/res0nat0r/lol) - 
 - [res0nat0r/res0nat0r.github.com](https://github.com/res0nat0r/res0nat0r.github.com) - Octopress website
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions
-- [res0nat0r/tsunami-udp](https://github.com/res0nat0r/tsunami-udp) -  A fast user-space file transfer protocol that uses TCP control and UDP data for transfer over very high speed long distance networks (≥ 1 Gbps and even 10 GE), designed to provide more throughput than possible with TCP over the same networks.
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 📓 Gists I wrote
 
-- [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (3 months ago)
+- [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (4 months ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (6 months ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (9 months ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (10 months ago)
