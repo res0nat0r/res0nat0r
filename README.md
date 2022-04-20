@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (5 days ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (6 days ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 months ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (9 months ago)
 
