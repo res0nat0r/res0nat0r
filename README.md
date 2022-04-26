@@ -4,7 +4,7 @@
 
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (1 week ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 months ago)
-- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (9 months ago)
+- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (10 months ago)
 
 #### 🌱 My latest projects
 
