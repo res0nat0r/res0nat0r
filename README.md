@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (2 months ago)
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (7 months ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (8 months ago)
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (1 year ago)
 
 #### 🌱 My latest projects
