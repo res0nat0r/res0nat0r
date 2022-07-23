@@ -2,11 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 week ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 day ago)
+- [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (1 day ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (3 months ago)
 
 #### 🌱 My latest projects
 
+- [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) - 
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) - 
 - [res0nat0r/guix](https://github.com/res0nat0r/guix) - GNU GUIX Mirror
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - 
@@ -16,7 +18,6 @@
 - [res0nat0r/powerball-checker](https://github.com/res0nat0r/powerball-checker) - Check Powerball numbers
 - [res0nat0r/lol](https://github.com/res0nat0r/lol) - 
 - [res0nat0r/res0nat0r.github.com](https://github.com/res0nat0r/res0nat0r.github.com) - Octopress website
-- [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions
 
 #### 🔭 Latest releases I've contributed to
 
