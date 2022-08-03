@@ -8,6 +8,7 @@
 
 #### 🌱 My latest projects
 
+- [res0nat0r/fly-livebook](https://github.com/res0nat0r/fly-livebook) - 
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) - 
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) - 
 - [res0nat0r/guix](https://github.com/res0nat0r/guix) - GNU GUIX Mirror
@@ -17,7 +18,6 @@
 - [res0nat0r/snaps](https://github.com/res0nat0r/snaps) - 
 - [res0nat0r/powerball-checker](https://github.com/res0nat0r/powerball-checker) - Check Powerball numbers
 - [res0nat0r/lol](https://github.com/res0nat0r/lol) - 
-- [res0nat0r/res0nat0r.github.com](https://github.com/res0nat0r/res0nat0r.github.com) - Octopress website
 
 #### 🔭 Latest releases I've contributed to
 
