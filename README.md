@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (6 days ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (3 weeks ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (4 months ago)
 
@@ -28,6 +28,6 @@
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (11 months ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 year ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (1 year ago)
-- [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (1 year ago)
+- [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (2 years ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
