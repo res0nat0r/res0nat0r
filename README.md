@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (1 week ago)
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (4 weeks ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 month ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (1 month ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (4 months ago)
 
@@ -26,7 +26,7 @@
 #### 📓 Gists I wrote
 
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (9 months ago)
-- [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (11 months ago)
+- [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 year ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 year ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (1 year ago)
 - [Internal / External Kubernetes Service Example](https://gist.github.com/fb675bb79fe8f769f7c3762254dac270) (2 years ago)
