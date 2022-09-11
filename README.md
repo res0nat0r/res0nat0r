@@ -5,7 +5,7 @@
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (1 week ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 month ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (1 month ago)
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (4 months ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (5 months ago)
 
 #### 🌱 My latest projects
 
