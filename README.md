@@ -4,7 +4,7 @@
 
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (2 weeks ago)
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (2 weeks ago)
-- [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (2 weeks ago)
+- [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (3 weeks ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 month ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (1 month ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (5 months ago)
