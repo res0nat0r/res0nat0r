@@ -27,7 +27,7 @@
 
 #### 📓 Gists I wrote
 
-- [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (9 months ago)
+- [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (10 months ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 year ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 year ago)
 - [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (1 year ago)
