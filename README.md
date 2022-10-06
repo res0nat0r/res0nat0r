@@ -27,7 +27,7 @@
 
 #### 📓 Gists I wrote
 
-- [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (1 day ago)
+- [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (2 days ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (10 months ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 year ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 year ago)
