@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (4 days ago)
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (1 month ago)
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (1 month ago)
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (1 month ago)
@@ -27,10 +27,10 @@
 
 #### 📓 Gists I wrote
 
-- [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (5 days ago)
+- [Set Colima proxy](https://gist.github.com/e182f23272a331f20b83195156eef83f) (1 day ago)
+- [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (6 days ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (10 months ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 year ago)
 - [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 year ago)
-- [](https://gist.github.com/4e0213769c92dda9b5b3a61e45fb6edb) (1 year ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
