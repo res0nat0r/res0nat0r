@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (6 days ago)
+- [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. (1 day ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 week ago)
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (1 month ago)
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (1 month ago)
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (1 month ago)
@@ -24,10 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) ([v0.0.9](https://github.com/turbot/steampipe-plugin-chaos/releases/tag/v0.0.9), 11 months ago) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of.
 
 #### 📓 Gists I wrote
 
-- [Set Colima proxy](https://gist.github.com/e182f23272a331f20b83195156eef83f) (3 days ago)
+- [Set Colima proxy](https://gist.github.com/e182f23272a331f20b83195156eef83f) (4 days ago)
 - [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (1 week ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (10 months ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 year ago)
