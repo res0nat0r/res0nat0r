@@ -5,7 +5,7 @@
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 week ago)
 - [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. (2 weeks ago)
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (1 month ago)
-- [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (1 month ago)
+- [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (2 months ago)
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (2 months ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (3 months ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (6 months ago)
