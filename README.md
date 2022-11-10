@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (6 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 week ago)
 - [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. (4 weeks ago)
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (2 months ago)
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (2 months ago)
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (2 months ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (3 months ago)
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (6 months ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) ([v0.0.9](https://github.com/turbot/steampipe-plugin-chaos/releases/tag/v0.0.9), 11 months ago) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of.
+- [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) ([v0.0.9](https://github.com/turbot/steampipe-plugin-chaos/releases/tag/v0.0.9), 1 year ago) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of.
 
 #### 📓 Gists I wrote
 
