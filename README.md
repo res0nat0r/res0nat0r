@@ -8,7 +8,7 @@
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (3 months ago)
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (3 months ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (4 months ago)
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (7 months ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,6 +33,6 @@
 - [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (2 months ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (1 year ago)
 - [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (1 year ago)
-- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (1 year ago)
+- [Resident Advisor Podcast URLs](https://gist.github.com/0fea0f18791d86d997505eac6f634267) (2 years ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
