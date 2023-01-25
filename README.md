@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 day ago)
 - [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. (3 months ago)
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (4 months ago)
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (4 months ago)
