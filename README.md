@@ -8,7 +8,7 @@
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (6 months ago)
 - [nexient-llc/tf-module-skeleton](https://github.com/nexient-llc/tf-module-skeleton) - Platform Terraform Module (6 months ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (7 months ago)
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (10 months ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (11 months ago)
 
 #### 🌱 My latest projects
 
