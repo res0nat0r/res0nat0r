@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 day ago)
 - [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. (6 months ago)
 - [nexient-llc/tf-azurerm-module-linux_web_app](https://github.com/nexient-llc/tf-azurerm-module-linux_web_app) -  (7 months ago)
 - [nexient-llc/tf-azurerm-module-front_door](https://github.com/nexient-llc/tf-azurerm-module-front_door) -  (7 months ago)
@@ -29,7 +29,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/81ca619a216d5e313af32ea774e3e6c1) (4 weeks ago)
+- [](https://gist.github.com/81ca619a216d5e313af32ea774e3e6c1) (1 month ago)
 - [Set proxy in Colima Docker container](https://gist.github.com/e182f23272a331f20b83195156eef83f) (6 months ago)
 - [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (6 months ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (1 year ago)
