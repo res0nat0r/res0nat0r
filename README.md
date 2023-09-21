@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 day ago)
-- [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe (2 weeks ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (2 days ago)
+- [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe (3 weeks ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (2 months ago)
 - [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. (11 months ago)
 
