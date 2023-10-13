@@ -22,7 +22,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [turbot/steampipe-plugin-chaos](https://github.com/turbot/steampipe-plugin-chaos) ([v0.0.9](https://github.com/turbot/steampipe-plugin-chaos/releases/tag/v0.0.9), 2 years ago) - Chaos Plugin for testing Steampipe with the craziest edge cases we can think of. Open source CLI. No DB required.
 
 #### 📓 Gists I wrote
 
