@@ -2,12 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (1 day ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (2 months ago)
 - [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe (2 months ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (4 months ago)
 
 #### 🌱 My latest projects
 
+- [res0nat0r/factorio](https://github.com/res0nat0r/factorio) - 
 - [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) - 
 - [res0nat0r/fly-livebook](https://github.com/res0nat0r/fly-livebook) - 
@@ -17,7 +19,6 @@
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions
 - [res0nat0r/salt](https://github.com/res0nat0r/salt) - 
 - [res0nat0r/snaps](https://github.com/res0nat0r/snaps) - 
-- [res0nat0r/powerball-checker](https://github.com/res0nat0r/powerball-checker) - Check Powerball numbers
 
 #### 🔭 Latest releases I've contributed to
 
