@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 days ago)
-- [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (3 weeks ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (4 days ago)
+- [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (4 weeks ago)
 - [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe (3 months ago)
 - [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (5 months ago)
 
