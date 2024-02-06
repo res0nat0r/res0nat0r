@@ -5,7 +5,7 @@
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 month ago)
 - [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (2 months ago)
 - [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe (5 months ago)
-- [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (6 months ago)
+- [res0nat0r/devcontainer](https://github.com/res0nat0r/devcontainer) -  (7 months ago)
 
 #### 🌱 My latest projects
 
