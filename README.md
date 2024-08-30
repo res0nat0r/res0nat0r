@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (2 weeks ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 day ago)
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (4 months ago)
 - [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (9 months ago)
 - [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe (1 year ago)
@@ -29,6 +29,6 @@
 - [Set proxy in Colima Docker container](https://gist.github.com/e182f23272a331f20b83195156eef83f) (2 years ago)
 - [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (2 years ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (2 years ago)
-- [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (2 years ago)
+- [EventBridge &#43; ECR](https://gist.github.com/2199102ab9a297d84bc1976d505c689b) (3 years ago)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
