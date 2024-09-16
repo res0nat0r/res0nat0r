@@ -4,7 +4,7 @@
 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (2 weeks ago)
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (5 months ago)
-- [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (9 months ago)
+- [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (10 months ago)
 
 #### 🌱 My latest projects
 
