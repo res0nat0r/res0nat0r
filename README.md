@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (1 month ago)
-- [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (5 months ago)
+- [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (6 months ago)
 - [res0nat0r/factorio](https://github.com/res0nat0r/factorio) -  (10 months ago)
 
 #### 🌱 My latest projects
