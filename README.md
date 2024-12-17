@@ -2,11 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - Advent of code solutions (1 day ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 months ago)
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (8 months ago)
 
 #### 🌱 My latest projects
 
+- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - Advent of code solutions
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) - 
 - [res0nat0r/factorio](https://github.com/res0nat0r/factorio) - 
 - [res0nat0r/doodle-god](https://github.com/res0nat0r/doodle-god) - List of discovered reactions for Doodle God Universe
@@ -14,7 +16,6 @@
 - [res0nat0r/fly-livebook](https://github.com/res0nat0r/fly-livebook) - 
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) - 
 - [res0nat0r/guix](https://github.com/res0nat0r/guix) - GNU GUIX Mirror
-- [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions
 - [res0nat0r/salt](https://github.com/res0nat0r/salt) - 
 
