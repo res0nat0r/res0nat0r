@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (4 days ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (5 days ago)
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - Advent of code solutions (1 week ago)
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (8 months ago)
 
