@@ -4,7 +4,7 @@
 
 - [res0nat0r/advent-of-code](https://github.com/res0nat0r/advent-of-code) - Advent of code solutions (2 weeks ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 weeks ago)
-- [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (8 months ago)
+- [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (9 months ago)
 
 #### 🌱 My latest projects
 
