@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (3 weeks ago)
+- [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (4 weeks ago)
 - [res0nat0r/stacklands](https://github.com/res0nat0r/stacklands) - Stacklands Tech Trees (1 month ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (1 month ago)
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (8 months ago)
