@@ -4,7 +4,7 @@
 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (2 months ago)
 - [res0nat0r/stacklands](https://github.com/res0nat0r/stacklands) - Stacklands Tech Trees (2 months ago)
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (2 months ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (3 months ago)
 - [res0nat0r/minecraft](https://github.com/res0nat0r/minecraft) -  (10 months ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/81ca619a216d5e313af32ea774e3e6c1) (2 years ago)
+- [](https://gist.github.com/81ca619a216d5e313af32ea774e3e6c1) (3 years ago)
 - [Set proxy in Colima Docker container](https://gist.github.com/e182f23272a331f20b83195156eef83f) (3 years ago)
 - [Lambda network connectivity tester](https://gist.github.com/a20f2ae9fb88b4aac3f146e55c6710eb) (3 years ago)
 - [Git config with multiple identities and multiple repositories](https://gist.github.com/576d223206ef057cde52ef180f73cedd) (4 years ago)
