@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (6 months ago)
-- [res0nat0r/stacklands](https://github.com/res0nat0r/stacklands) - Stacklands Tech Trees (6 months ago)
+- [res0nat0r/stacklands](https://github.com/res0nat0r/stacklands) - Stacklands Tech Trees (7 months ago)
 - [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (7 months ago)
 
 #### 🌱 My latest projects
