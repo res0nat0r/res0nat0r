@@ -5,7 +5,7 @@
 - [res0nat0r/projecteuler-solutions](https://github.com/res0nat0r/projecteuler-solutions) - Project Euler Solutions (3 weeks ago)
 - [res0nat0r/exercism](https://github.com/res0nat0r/exercism) - exercism.io solutions (10 months ago)
 - [res0nat0r/stacklands](https://github.com/res0nat0r/stacklands) - Stacklands Tech Trees (10 months ago)
-- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (10 months ago)
+- [res0nat0r/haskellbook](https://github.com/res0nat0r/haskellbook) -  (11 months ago)
 
 #### 🌱 My latest projects
 
